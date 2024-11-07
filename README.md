@@ -51,7 +51,8 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ![exp__3](https://github.com/user-attachments/assets/71acd374-fa9b-4643-bfa2-ae173fde4802)
-![exp___3](https://github.com/user-attachments/assets/efae581d-a561-416f-a8ea-1e6b3a747b67)
+![exp_3 (5)](https://github.com/user-attachments/assets/3bd3ba3f-46e8-46d1-bf74-b3c167fdfee1)
+
 
 
 
